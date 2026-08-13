@@ -1,0 +1,4 @@
+Hello Python
+This is File Handling.
+This line is added using append mode.
+This line is written using r+ mode.
