@@ -4,7 +4,7 @@ class Student:
         print("Roll No: 101")
 
 class Engineering(Student):
-    def engineering_details(self):
+    def engineering_details(self): 
         print("Branch: Computer Engineering")
 
 class Management(Student):
