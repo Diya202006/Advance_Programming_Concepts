@@ -1,0 +1,8 @@
+Name: Diya Khamkar
+Roll Number: 101
+Branch: Computer Science and Engineering
+Semester: 5
+
+Address: Kolhapur
+Email: diya@example.com
+Phone: 9876543210
