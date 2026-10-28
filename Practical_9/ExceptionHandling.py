@@ -19,3 +19,20 @@ else:
 finally:
     print("This is the finally block.")
     print("Program execution completed.")
+
+
+
+
+
+
+
+
+
+
+
+import numpy as np
+
+arr = np.array([10, 20, 30, 40])
+arr = np.append(arr, 50)
+print("Array:", arr)
+print("Package version:", np.__version__)
