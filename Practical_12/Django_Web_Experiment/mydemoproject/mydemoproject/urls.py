@@ -1,8 +1,8 @@
 from django.contrib import admin
 from django.urls import path
-from demoapp.views import demo
+from demoapp.views import login_view
 
 urlpatterns = [
-    path('admin/', admin.site.urls),
-    path('demo/', demo, name='demo'),
+    path("admin/", admin.site.urls),
+    path("", login_view, name="login"),
 ]
